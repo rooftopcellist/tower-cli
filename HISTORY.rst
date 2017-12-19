@@ -1,7 +1,7 @@
 Release History
 ===============
 
-3.2.1 (2017-xx-xx)
+3.2.1 (2017-12-19)
 ------------------
 
 - Install new CLI entry point, awx-cli
